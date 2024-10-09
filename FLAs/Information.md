@@ -7,4 +7,4 @@ Impostor! Mania
 
 Along with many miscellaneous FLAs
 
-> 90% of the FLAs are just bitmaps being moved so you can really recolor them, sorry.
+> 90% of the FLAs are just bitmaps being moved so you can't really recolor them, sorry.
