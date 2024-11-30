@@ -1,5 +1,5 @@
 # jaysartarchive
-## CynthwaveJay's public art archive
+## MonoJay's public art archive
 
 ## Contains:
 FLA Files
